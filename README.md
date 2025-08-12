@@ -13,6 +13,8 @@
 ### Lenguajes Herramientas y Consultas
 * Visual Studio Code (*Como editor de Codigo*)
 * JavaScript
+* CSS
+* HTML
 * Trello
 * Material y Cursos proporcionados por Alura Latam 
 * Archivo CSS
@@ -23,5 +25,6 @@
 * Otros
 * https://developer.mozilla.org/es/
 * https://openai.com/ (ChatGPT)
+
 
 
